@@ -1,0 +1,11 @@
+../Core/Src/main.c:86:5:main	8	static
+../Core/Src/main.c:141:6:startbit	16	static
+../Core/Src/main.c:153:7:send_wave	16	static
+../Core/Src/main.c:163:7:send_1	16	static
+../Core/Src/main.c:170:7:send_0	8	static
+../Core/Src/main.c:177:6:SystemClock_Config	72	static
+../Core/Src/main.c:216:13:MX_DAC1_Init	24	static
+../Core/Src/main.c:256:13:MX_TIM2_Init	40	static
+../Core/Src/main.c:299:13:MX_DMA_Init	16	static
+../Core/Src/main.c:320:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:336:6:Error_Handler	4	static,ignoring_inline_asm
